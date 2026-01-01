@@ -18,7 +18,7 @@ This portfolio is designed to demonstrate my business analytical skills in:
 
 This template showcases how i solve business problems in different situations.
 
-## Project Title Two
+## Project Title One
 
 ### A2Z Business Performance Target Project
 Business Problem/Needs
@@ -52,7 +52,7 @@ Tools Used For This Project
 
 
 
-### Project Title Two
+## Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
 
 

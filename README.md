@@ -30,9 +30,9 @@ Out of the eight stores owned by A2Z Business LTD, four store were able to impre
 - *Other store like Lopez, Barron Fleming, and Myer Lopez store exceeded their target with 30%, 29.5% and 26.7% respectively* 
 <img width="2886" height="83" alt="image" src="https://github.com/user-attachments/assets/a4ab902f-886a-4f7e-9499-40c5c1106e75" />*
 
-*In order to understand the impact of this project, I carried out an Exploratory Data Analysis for each store’s dataset, comparing their total revenue with monthly target.  
-Base on this analysis, the manager was able to notice the Novak PLC Store and other stores that did poorly. Novak store PLC never meet their monthly target for the whole year, with difference of -24.6%.  
-<img width="2012" height="83" alt="image" src="https://github.com/user-attachments/assets/8b0ed400-7ba3-4499-bacf-7bae85c55b8e" />*
+In order to understand the impact of this project, I carried out an Exploratory Data Analysis for each store’s dataset, comparing their total revenue with monthly target.  
+Base on this analysis, the manager was able to notice the Novak PLC Store and other stores that did poorly. Novak store PLC never meet their monthly target for the whole year, with difference of -24.6%. 
+<img width="2012" height="83" alt="image" src="https://github.com/user-attachments/assets/8b0ed400-7ba3-4499-bacf-7bae85c55b8e" />
 
 #### Dataset Provided
 - Customers record

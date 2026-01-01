@@ -22,16 +22,15 @@ This template showcases how i solve business problems in different situations.
 
 ### A2Z Business Performance Target Project
 #### Business Problem/Needs
-*The management of A2Z Business company wants me to review the revenue performance across all stores. The manager, Mr. John Collins, wants to know which stores were able to meet their target for the year, which store made the highest variance (Revenue - Target) and the days profitable for sales. He desires to give some days off to the best store and provide a seperate salary increment for them <img width="3118" height="53" alt="image" src="https://github.com/user-attachments/assets/102f5f37-fe66-4f2a-a42a-6ec7f0cb1bbc" />*
+*The management of A2Z Business company wants me to review the revenue performance across all stores. The manager, Mr. John Collins, wants to know which stores were able to meet their target for the year, which store made the highest variance (Revenue - Target) and the days profitable for sales. He desires to give some days off to the best store and provide a seperate salary increment for them* <img width="3118" height="53" alt="image" src="https://github.com/user-attachments/assets/102f5f37-fe66-4f2a-a42a-6ec7f0cb1bbc" />
 
 #### My FIndings/ Key Insight
 - *I carried out this project using the PACE FRAMEWORK. 
 Out of the eight stores owned by A2Z Business LTD, four store were able to impressively exceed their targets for the year with The LEE-MYERS store making the most variance of 31.1% increase, which is the difference between the total revenue and total target. Their best revenue generated was in the first and third quarters, with Sundays, Saturdays and Wednesdays the most profitable business days.*
 - *Other store like Lopez, Barron Fleming, and Myer Lopez store exceeded their target with 30%, 29.5% and 26.7% respectively* 
-<img width="2886" height="83" alt="image" src="https://github.com/user-attachments/assets/a4ab902f-886a-4f7e-9499-40c5c1106e75" />*
+- *Base on this analysis, the manager was able to notice the Novak PLC Store and other stores that did poorly. Novak store PLC never meet their monthly target for the whole year, with difference of -24.6%.* <img width="2886" height="83" alt="image" src="https://github.com/user-attachments/assets/a4ab902f-886a-4f7e-9499-40c5c1106e75" />
 
 In order to understand the impact of this project, I carried out an Exploratory Data Analysis for each store’s dataset, comparing their total revenue with monthly target.  
-Base on this analysis, the manager was able to notice the Novak PLC Store and other stores that did poorly. Novak store PLC never meet their monthly target for the whole year, with difference of -24.6%. 
 <img width="2012" height="83" alt="image" src="https://github.com/user-attachments/assets/8b0ed400-7ba3-4499-bacf-7bae85c55b8e" />
 
 #### Dataset Provided

@@ -23,15 +23,15 @@ This template showcases how i solve business problems in different situations.
 
 ### A2Z Business Performance Target Project
 #### Business Problem/Needs
-*The management of A2Z Business company wants me to review and analyze their revenue performance across all stores. The manager, Mr. John Collins, wants to know which stores were able to meet their target for the year, which store made the highest variance (Revenue - Target) and the days profitable for sales. He desires to give some days off to the best store and provide a seperate salary increment for them* 
+*A2Z Business is a Convenience Store that offers a broad selection of both non-alcoholic and alcoholic beverages for quick purchase. The management of the A2Z Business company wants me to review the revenue performance across all stores. Mr John Collins, the manager, wants to know which stores were able to meet their target for the year, which store had the highest variance (Revenue - Target), and the days when sales were profitable. He desires to give some days off to the best store and provide a special salary increment for all stores that meet their target accordingly.* 
 
 #### My FIndings/ Key Insight
-- *Despite the four stores meeting their targets and four stores not meeting their target, A2Z Business Ltd was able to suppase their taget for the year with 3.7%*
--  *Out of the eight stores owned by A2Z Business LTD, four store were able to impressively exceed their targets for the year with The LEE-MYERS store making the most variance of 31.1% increase, which is the difference between the total revenue and total target. Their best revenue generated was in the first and third quarters, with Sundays, Saturdays and Wednesdays the most profitable business days.*
-- *Other store like Lopez, Barron Fleming, and Myer Lopez store exceeded their target with 30%, 29.5% and 26.7% respectively* 
-- *Base on my analysis, the manager was able to notice the Novak PLC Store and other stores that did poorly. Novak store never met their monthly target for the whole year, with difference of -24.6%.* 
+1. *Out of the eight stores owned by A2Z Business LTD, four stores were able to impressively exceed their targets for the year, with the LEE-MYERS store making the most variance of 31.1% increase, which is the difference between the total revenue and total target. Their best revenue generated was in the first and third quarters, with Sundays, Saturdays and Wednesdays the most profitable business days.*
+2. *Other stores like Lopez, Barron Fleming, and Myer Lopez store exceeded their targets with 30%, 29.5% and 26.7% respectively*
+3. *Based on this analysis, the manager was able to notice the Novak Store and other stores that did poorly. Novak store never met their monthly target for the whole year, with difference of -24.6%.*
+4. *There are a few outliers in the dataset which resulted to increase in average revenue*
+5. *There is a positive correlation between revenue and total budget*
 
-In order to understand the impact of this project, I carried out an exploratory and statistical analysis for each store’s dataset, comparing their total revenue with monthly target.  
 
 
 #### Dataset Provided

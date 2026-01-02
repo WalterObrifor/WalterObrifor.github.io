@@ -4,7 +4,6 @@ Welcome!
 *This portfolio contains my professional, one-page full stack data analysis project website, hosted on GitHub Page.*
 
 ## About This Portfolio Template
-
 This portfolio is designed to demonstrate my business analytical skills in:
 - Solving real wold business questions
 - Communicating data storytelling, data modelling and data analysis
@@ -22,6 +21,8 @@ This template showcases how i solve business problems in different situations.
 ## Project Title One
 
 ### A2Z Business Performance Target Project
+<img width="306" height="151" alt="A2Z store picture 1" src="https://github.com/user-attachments/assets/8a216c99-cefa-4811-9310-717df3b6e29a" />
+
 #### Business Problem/Needs
 *A2Z Business is a Convenience Store that offers a broad selection of both non-alcoholic and alcoholic beverages for quick purchase. The management of the A2Z Business company wants me to review the revenue performance across all stores. Mr John Collins, the manager, wants to know which stores were able to meet their target for the year, which store had the highest variance (Revenue - Target), and the days when sales were profitable. He desires to give some days off to the best store and provide a special salary increment for all stores that meet their target accordingly.* 
 
@@ -32,6 +33,7 @@ This template showcases how i solve business problems in different situations.
 4. *There are a few outliers in the dataset which resulted to increase in average revenue*
 5. *There is a positive correlation between revenue and total budget*
 
+<img width="793" height="398" alt="Highest variance" src="https://github.com/user-attachments/assets/16f6631c-c7b8-4b74-9f60-ca0d3b1b4f9f" />
 
 
 #### Dataset Provided
@@ -41,11 +43,16 @@ This template showcases how i solve business problems in different situations.
 - Sales record
 
 #### My Recommedations
-- *A2Z should implement the strenth of LEE MyER store and other thrieving stores, in other stores that are struggling.*
-- *Strategics marketing campaign should be carried out based on figures (data analysis) from store performance*
+Based on the analysis carried out, I recommend the following actions:
+- *A2Z Business should implement the strengths of LEE MYER store and other thriving stores in the different stores that are struggling.*
+- *A strategic marketing campaign should be done based on statistics and not assumptions for better store performance.*
+- *Invest more in marketing and promoting products during peak Sales seasons to maximise sales for those stores doing poorly.*
+- *Focus on expanding and promoting products in LEE-MYERS, LOPEX, BARRON FLEMING, and MYER LOPEZ stores*
+- *Implement a customer segmentation strategy to target high-value customers in each store.* 
+
 
 #### Tools Used For This Project
-*This project was done and completed with Microsoft Excel. A responsive and automated dashbord was also created*
+*This project was done with Microsoft Excel. A responsive and automated dashbord was also created*
 
 
 

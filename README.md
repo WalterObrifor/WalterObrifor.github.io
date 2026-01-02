@@ -21,7 +21,7 @@ This template showcases how i solve business problems in different situations.
 ## Project Title One
 
 ### A2Z Business Performance Target Project
-<img width="306" height="151" alt="A2Z store picture 1" src="https://github.com/user-attachments/assets/8a216c99-cefa-4811-9310-717df3b6e29a" />
+<img width="500" height="151" alt="A2Z store picture 1" src="https://github.com/user-attachments/assets/8a216c99-cefa-4811-9310-717df3b6e29a" />
 
 #### Business Problem/Needs
 *A2Z Business is a Convenience Store that offers a broad selection of both non-alcoholic and alcoholic beverages for quick purchase. The management of the A2Z Business company wants me to review the revenue performance across all stores. Mr John Collins, the manager, wants to know which stores were able to meet their target for the year, which store had the highest variance (Revenue - Target), and the days when sales were profitable. He desires to give some days off to the best store and provide a special salary increment for all stores that meet their target accordingly.* 
@@ -33,7 +33,7 @@ This template showcases how i solve business problems in different situations.
 4. *There are a few outliers in the dataset which resulted to increase in average revenue*
 5. *There is a positive correlation between revenue and total budget*
 
-<img width="793" height="398" alt="Highest variance" src="https://github.com/user-attachments/assets/16f6631c-c7b8-4b74-9f60-ca0d3b1b4f9f" />
+<img width="500" height="398" alt="Highest variance" src="https://github.com/user-attachments/assets/16f6631c-c7b8-4b74-9f60-ca0d3b1b4f9f" />
 
 
 #### Dataset Provided
